@@ -1,0 +1,49 @@
+#page-numbers {
+  width: 100%;
+  text-align: center;
+  padding-top: 5px;
+}
+
+#page-numbers ul {
+  display: inline-block;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+#page-numbers ul > li {
+  display: inline;
+  margin-right: 0.3em;
+  user-select: none;
+  cursor: pointer;
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  margin-left: -1px;
+  line-height: 1.42857143;
+  color: #337ab7;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+
+table tr th:first-child {
+  display: none;
+}
+
+.loader {
+  position: absolute;
+  top: calc(50% - 4em);
+  left: calc(50% - 4em);
+}
+
+.search-box {
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 25px 0px #ccc;
+}
+
+#page-numbers ul > li.active {
+  background-color: #183973;
+  color: #ffffff;
+}
