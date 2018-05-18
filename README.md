@@ -4,7 +4,7 @@ https://nirajradadiya.github.io/react-pokemon/
 ## Run locally
 Type this command on your terminal:  
 
-* `https://github.com/nirajradadiya/reactjs-demo.git`
+* `Clone https://github.com/nirajradadiya/reactjs-demo.git`
 * `cd reactjs-demo`
 * `npm install`
 * `npm start`
