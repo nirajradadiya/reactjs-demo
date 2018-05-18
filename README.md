@@ -1,3 +1,6 @@
+## Live Demo
+https://nirajradadiya.github.io/react-pokemon/
+
 ## Run locally
 Type this command on your terminal:  
 
